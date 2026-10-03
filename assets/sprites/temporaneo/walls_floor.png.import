@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c1u7b4osvrrhy"
-path="res://.godot/imported/Pink_Monster.png-23f5dbe4e5fad0a3271e713d761d51c0.ctex"
+uid="uid://d0ows8kqx0kro"
+path="res://.godot/imported/walls_floor.png-171ec121a9bfc7a4744cf88d87c67577.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/levels/Pink_Monster.png"
-dest_files=["res://.godot/imported/Pink_Monster.png-23f5dbe4e5fad0a3271e713d761d51c0.ctex"]
+source_file="res://assets/sprites/temporaneo/walls_floor.png"
+dest_files=["res://.godot/imported/walls_floor.png-171ec121a9bfc7a4744cf88d87c67577.ctex"]
 
 [params]
 
