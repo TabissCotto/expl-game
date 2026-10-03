@@ -1,3 +1,15 @@
 [gd_scene format=3 uid="uid://daeohmd0io7jb"]
 
+[ext_resource type="Texture2D" uid="uid://vkr5og6yo7n6" path="res://assets/sprites/temporaneo/Pink_Monster.png" id="1_yv0av"]
+
 [node name="Node2D" type="Node2D" unique_id=1398291170]
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1470770857]
+offset_right = 320.0
+offset_bottom = 180.0
+color = Color(5.041696e-06, 0.3162863, 0.016812071, 1)
+
+[node name="Sprite2D" type="Sprite2D" parent="ColorRect" unique_id=1183457711]
+position = Vector2(166, 94)
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("1_yv0av")
